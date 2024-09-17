@@ -1,7 +1,10 @@
+import Holamundo from "./componentes/Holamundo";
 
 
 function App() {
-  return <></>;
+  return <>
+  <Holamundo mensaje='Hello my friends' ></Holamundo>
+  </>;
 }
 
 export default App;
